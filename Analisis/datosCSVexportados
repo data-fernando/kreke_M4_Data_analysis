@@ -1,0 +1,5 @@
+Fecha,Categoría del Producto,Precio,Cantidad,Método de Pago,Ubicación,UltimaCompraFecha,dias_desde_ultimaCompra
+2021-01-01,Electrónica,500.0,1,Tarjeta de Crédito,Quito,2021-02-02,32
+2021-01-02,Ropa,80.0,3,PayPal,Cuenca,2021-02-03,32
+2021-01-03,Electrónica,450.0,2,Efectivo,Quito,2021-02-04,32
+2021-01-04,Alimentos,20.0,5,Tarjeta de Crédito,Guayaquil,2021-02-05,32
